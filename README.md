@@ -1,3 +1,3 @@
 <p>README pour BMFWS</p>
-https://hunaba.github.io/Bettermotherfuckingwebsite/
-ajout du pop up et du lien youtube
+<p>texte mis en ligne: https://hunaba.github.io/Bettermotherfuckingwebsite/</p>
+<p>ajout du pop up et du lien youtube pour s'initier à Script</p>
